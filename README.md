@@ -83,7 +83,7 @@ Dataset: [BrendanMartin/IMDB-Movie-Data.csv](https://github.com/LearnDataSci/art
 2. When there is the fit movie, it can provide some information about "Title, Genre, Description, Director, Actors, Year, Runtime (Minutes), Rating, Votes, Revenue (Millions), Metascore"
 
 ## Below is a preview of the application interface:
-![Preview](.Preview.png)
+![Preview](Preview.png)
 
 
 ## Trouble shoot
