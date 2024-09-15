@@ -1,4 +1,4 @@
-### Movie Assistant
+# Movie Assistant
 
 ## Project Overview
 The Movie Assistant is a system designed to help users find detailed and relevant information about movies by leveraging Retrieval-Augmented Generation (RAG) techniques. 
