@@ -16,7 +16,7 @@ This project aims to enhance the movie discovery experience by enabling users to
 
 ## Install and Set Up
 
-1. Create a Python Virtual environment and install the required dependencies 
+1. Create a Python virtual environment and install the required dependencies 
     ```
     pip install -r requirements.txt
     ```
@@ -38,7 +38,7 @@ Dataset: [BrendanMartin/IMDB-Movie-Data.csv](https://github.com/LearnDataSci/art
 
 ## How to execute it
 1. Type something about the movie you're searching for, including the "Title, Genre, Description, Director, or Actors".
-2. When there is the fit movie, it can provide some information about "Title, Genre, Description, Director, Actors, Year, Runtime (Minutes), Rating, Votes, Revenue (Millions), Metascore"
+2. When there is a suitable movie, besides "Title, Genre, Description, Director, Actors", it can also provide some information about "Year, Runtime (Minutes), Rating, Votes, Revenue (Millions), Metascore".
 
 ## Below is a preview of the application interface:
 ![Preview](Preview.png)
