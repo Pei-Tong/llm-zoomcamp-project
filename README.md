@@ -15,8 +15,8 @@ Use Elasticsearch as the knowledge base.
 
 ## Retrieval Evaluation
 Implement hit_rate and MRR (Mean Reciprocal Rank) to evaluate the effectiveness of retrieval operations. The hybrid search combines both knn_queries (for vector-based search) and keyword_query (for traditional keyword search).
-- 'hit_rate': 0.9933333333333333
-- 'mrr': 0.877233333333334
+- Hit Rate: 0.9933333333333333
+- MRR: 0.877233333333334
 
 
 ## Rag evaluation
