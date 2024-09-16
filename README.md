@@ -24,8 +24,6 @@ Using gpt-40-mini and gpt-3.5 to evaluate the quality of the RAG flow.
 GPT-3.5 Average similarity: 0.5535
 GPT-4.0 Average similarity: 0.5757
 Difference: 0.0223
-=======
->>>>>>> 6cc59ad027cca812c63794ab11fe95b8b0974f36
 
 ## Prerequisites
 - Python 3.12 or higher
@@ -64,4 +62,3 @@ Dataset: [BrendanMartin/IMDB-Movie-Data.csv](https://github.com/LearnDataSci/art
 
 ## Below is a preview of the application interface:
 ![Preview](Preview.png)
->>>>>>> 6cc59ad027cca812c63794ab11fe95b8b0974f36
