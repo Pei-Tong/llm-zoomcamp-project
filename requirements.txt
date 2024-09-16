@@ -1,0 +1,13 @@
+   openai
+   pandas
+   python-dotenv
+   gunicorn
+   tqdm
+   ipykernel
+   jupyter
+   notebook
+   ipywidgets
+   requests
+   streamlit
+   elasticsearch==8.15.0
+   sentence-transformers
